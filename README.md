@@ -1,6 +1,6 @@
 # Meine ersten Codes
 
-Willkommen! Hier sind einfache Python-Programme zum Ueiben.
+Willkommen! Hier sind einfache Python-Programme zum Ueben.
 
 ## Dateien
 
@@ -12,6 +12,9 @@ Willkommen! Hier sind einfache Python-Programme zum Ueiben.
 - `umrechner.py` – Rechnet Celsius und Fahrenheit um
 - `wort-zaehlen.py` – Zaehlt Woerter und Buchstaben in einem Satz
 - `einmaleins-trainer.py` – Uebt das kleine Einmaleins mit 5 Aufgaben
+- `schere-stein-papier.py` – Schere, Stein, Papier gegen den Computer
+- `passwort-generator.py` – Erzeugt ein einfaches Passwort aus Buchstaben und Zahlen
+- `countdown.py` – Zaehlt von einer Zahl bis 0 herunter
 
 ## So startest du die Programme
 
@@ -28,6 +31,9 @@ python quiz.py
 python umrechner.py
 python wort-zaehlen.py
 python einmaleins-trainer.py
+python schere-stein-papier.py
+python passwort-generator.py
+python countdown.py
 ```
 
 Viel Spass beim Programmieren!
