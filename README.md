@@ -11,6 +11,7 @@ Willkommen! Hier sind einfache Python-Programme zum Ueiben.
 - `quiz.py` – Ein kleines Wissens-Quiz mit 5 Fragen
 - `umrechner.py` – Rechnet Celsius und Fahrenheit um
 - `wort-zaehlen.py` – Zaehlt Woerter und Buchstaben in einem Satz
+- `einmaleins-trainer.py` – Uebt das kleine Einmaleins mit 5 Aufgaben
 
 ## So startest du die Programme
 
@@ -26,6 +27,7 @@ python wuerfel-spiel.py
 python quiz.py
 python umrechner.py
 python wort-zaehlen.py
+python einmaleins-trainer.py
 ```
 
 Viel Spass beim Programmieren!
