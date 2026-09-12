@@ -15,6 +15,7 @@ Willkommen! Hier sind einfache Python-Programme zum Ueben.
 - `schere-stein-papier.py` – Schere, Stein, Papier gegen den Computer
 - `passwort-generator.py` – Erzeugt ein einfaches Passwort aus Buchstaben und Zahlen
 - `countdown.py` – Zaehlt von einer Zahl bis 0 herunter
+- `wort-rueckwaerts.py` – Dreht ein Wort um und erkennt Palindrome
 
 ## So startest du die Programme
 
@@ -34,6 +35,7 @@ python einmaleins-trainer.py
 python schere-stein-papier.py
 python passwort-generator.py
 python countdown.py
+python wort-rueckwaerts.py
 ```
 
 Viel Spass beim Programmieren!
