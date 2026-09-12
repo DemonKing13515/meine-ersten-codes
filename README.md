@@ -16,6 +16,9 @@ Willkommen! Hier sind einfache Python-Programme zum Ueben.
 - `passwort-generator.py` – Erzeugt ein einfaches Passwort aus Buchstaben und Zahlen
 - `countdown.py` – Zaehlt von einer Zahl bis 0 herunter
 - `wort-rueckwaerts.py` – Dreht ein Wort um und erkennt Palindrome
+- `geheime-nachricht.py` – Verschluesselt und entschluesselt Texte (Caesar)
+- `random-witz.py` – Zeigt zufaellige, kindgerechte Witze
+- `fizzbuzz.py` – Klassisches FizzBuzz-Spiel mit Zahlen
 
 ## So startest du die Programme
 
@@ -36,6 +39,9 @@ python schere-stein-papier.py
 python passwort-generator.py
 python countdown.py
 python wort-rueckwaerts.py
+python geheime-nachricht.py
+python random-witz.py
+python fizzbuzz.py
 ```
 
 Viel Spass beim Programmieren!
