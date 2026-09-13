@@ -19,6 +19,7 @@ Willkommen! Hier sind einfache Python-Programme zum Ueben.
 - `geheime-nachricht.py` – Verschluesselt und entschluesselt Texte (Caesar)
 - `random-witz.py` – Zeigt zufaellige, kindgerechte Witze
 - `fizzbuzz.py` – Klassisches FizzBuzz-Spiel mit Zahlen
+- `farben-raten.py` – Rate die geheime Farbe aus einer Liste
 
 ## So startest du die Programme
 
@@ -42,6 +43,7 @@ python wort-rueckwaerts.py
 python geheime-nachricht.py
 python random-witz.py
 python fizzbuzz.py
+python farben-raten.py
 ```
 
 Viel Spass beim Programmieren!
