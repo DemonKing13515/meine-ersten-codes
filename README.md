@@ -20,6 +20,10 @@ Willkommen! Hier sind einfache Python-Programme zum Ueben.
 - `random-witz.py` – Zeigt zufaellige, kindgerechte Witze
 - `fizzbuzz.py` – Klassisches FizzBuzz-Spiel mit Zahlen
 - `farben-raten.py` – Rate die geheime Farbe aus einer Liste
+- `tiere-raten.py` – Rate Buchstaben und finde das geheime Tier
+- `tic-tac-toe.py` – Tic-Tac-Toe fuer zwei Spieler
+- `muenzwurf.py` – Simuliert viele Muenzwuerfe
+- `namen-kunst.py` – Schreibt deinen Namen als Sterne-Rahmen
 
 ## So startest du die Programme
 
@@ -44,6 +48,10 @@ python geheime-nachricht.py
 python random-witz.py
 python fizzbuzz.py
 python farben-raten.py
+python tiere-raten.py
+python tic-tac-toe.py
+python muenzwurf.py
+python namen-kunst.py
 ```
 
 Viel Spass beim Programmieren!
